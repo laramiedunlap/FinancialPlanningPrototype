@@ -1,6 +1,5 @@
 import re
 from datetime import date
-import alpaca_trade_api as tradeapi
 from alpaca_trade_api.rest import REST, TimeFrame
 
 
